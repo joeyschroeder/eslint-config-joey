@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-joey",
   "version": "0.1.0",
-  "description": "An extensible ESLint config based on Joey's preferences.",
+  "description": "An opinionated, extensible ESLint config based on Joey's preferences.",
   "main": "index.js",
   "scripts": {
     "changelog:commit": "git add CHANGELOG.md && git commit -m 'update CHANGELOG.md' && echo \"\\x1b[102m\\x1b[1m CHANGELOG \\x1b[0m\" Committed CHANGELOG.md",
