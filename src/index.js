@@ -4,7 +4,7 @@ module.exports = {
     browser: true,
     'jest/globals': true
   },
-  "extends": [
+  extends: [
     'airbnb',
     'eslint:recommended',
     'plugin:prettier/recommended',
