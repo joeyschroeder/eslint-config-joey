@@ -1,13 +1,13 @@
-[![npm](https://img.shields.io/npm/v/eslint-plugin-joey.svg)](https://www.npmjs.com/package/eslint-plugin-joey)
-[![npm downloads](https://img.shields.io/npm/dt/eslint-plugin-joey.svg)](https://www.npmjs.com/package/eslint-plugin-joey)
+[![npm](https://img.shields.io/npm/v/eslint-config-joey.svg)](https://www.npmjs.com/package/eslint-config-joey)
+[![npm downloads](https://img.shields.io/npm/dt/eslint-config-joey.svg)](https://www.npmjs.com/package/eslint-config-joey)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
 [![GitHub issues](https://img.shields.io/github/issues/joeyschroeder/joey-eslint-config.svg)](https://github.com/joeyschroeder/joey-eslint-config/issues)
 [![GitHub stars](https://img.shields.io/github/stars/joeyschroeder/joey-eslint-config.svg)](https://github.com/joeyschroeder/joey-eslint-config/stargazers)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![Dependency status](https://david-dm.org/joeyschroeder/eslint-plugin-joey/status.svg)](https://david-dm.org/joeyschroeder/eslint-plugin-joey/)
-[![devDependency status](https://david-dm.org/joeyschroeder/eslint-plugin-joey/dev-status.svg)](https://david-dm.org/joeyschroeder/eslint-plugin-joey/?type=dev)
+[![Dependency status](https://david-dm.org/joeyschroeder/eslint-config-joey/status.svg)](https://david-dm.org/joeyschroeder/eslint-config-joey/)
+[![devDependency status](https://david-dm.org/joeyschroeder/eslint-config-joey/dev-status.svg)](https://david-dm.org/joeyschroeder/eslint-config-joey/?type=dev)
 
-# 🌈 eslint-plugin-joey
+# 🌈 eslint-config-joey
 An opinionated, extensible ESLint config based on Joey's preferences.  This ESLint config includes:
 * [eslint-config-airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb)
 * [eslint-plugin-jest](https://github.com/jest-community/eslint-plugin-jest)
@@ -22,10 +22,10 @@ An opinionated, extensible ESLint config based on Joey's preferences.  This ESLi
 This configuration has a dependency of ESLint.  Install ESLint using `npm install --save-dev eslint`.
 
 ### Install this Config
-After installing ESLint you can install this library using `npm install --save-dev eslint-plugin-joey`.
+After installing ESLint you can install this library using `npm install --save-dev eslint-config-joey`.
 
 ## Usage
-Add `"extends": "eslint-plugin-joey"` to your `.eslintrc`.
+Add `"extends": "eslint-config-joey"` to your `.eslintrc`.
 
 ## Versioning
 I use [SemVer](https://docs.npmjs.com/getting-started/semantic-versioning) for versioning. For the versions available, see the [tags on this repository](https://github.com/joeyschroeder/joey-eslint-config/tags).
