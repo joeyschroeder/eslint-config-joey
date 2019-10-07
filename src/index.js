@@ -1,13 +1,15 @@
 /* global module */
 module.exports = {
   env: {
-    browser: true
+    browser: true,
+    'jest/globals': true
   },
   extends: ['airbnb', 'eslint:recommended', 'plugin:prettier/recommended'],
   globals: {
     MyGlobal: true
   },
   parser: 'babel-eslint',
+  plugins: ['jest'],
   rules: {
     'comma-dangle': 0,
     'consistent-return': 0,
