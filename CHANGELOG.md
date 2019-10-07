@@ -1,3 +1,13 @@
+#### 0.1.3 (2019-10-07)
+
+##### Chores
+
+*  Update URLs in package.json ([3beccf1f](https://github.com/joeyschroeder/eslint-config-joey/commit/3beccf1f46cfd365d1bb0143a0fce0eb0e278028))
+
+##### Documentation Changes
+
+*  Fix typo in README.md ([c23c8457](https://github.com/joeyschroeder/eslint-config-joey/commit/c23c845741176a0aff82bf55afcd936e9592b129))
+
 #### 0.1.2 (2019-10-07)
 
 ##### Documentation Changes
