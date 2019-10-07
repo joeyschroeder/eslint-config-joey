@@ -12,7 +12,7 @@ An opinionated, extensible ESLint config based on Joey's preferences.  This ESLi
 * [eslint-config-airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb)
 * [eslint-plugin-jest](https://github.com/jest-community/eslint-plugin-jest)
 * [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y)
-* [eslint:reccomended](https://github.com/eslint/eslint/blob/master/conf/eslint-recommended.js)
+* [eslint:recomended](https://github.com/eslint/eslint/blob/master/conf/eslint-recommended.js)
 * [prettier/recommended](https://github.com/prettier/prettier)
 * [react/recommended](https://github.com/yannickcr/eslint-plugin-react)
 
