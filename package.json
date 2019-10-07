@@ -1,5 +1,5 @@
 {
-  "name": "@joey/eslint-config",
+  "name": "eslint-config-joey",
   "version": "0.1.0",
   "description": "An extensible ESLint config based on Joey's preferences.",
   "main": "index.js",
@@ -21,10 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/joeyschroeder/joey-eslint-config.git"
-  },
-  "publishConfig": {
-    "access": "public"
+    "url": "git+https://github.com/joeyschroeder/joey-eslint-config.git"
   },
   "keywords": [
     "airbnb",
@@ -37,10 +34,7 @@
     "react",
     "react-hooks"
   ],
-  "author": {
-    "name": "Joey Schroeder",
-    "email": "schrjos@gmail.com"
-  },
+  "author": "Joey Schroeder <schrjos@gmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/joeyschroeder/joey-eslint-config",
   "devDependencies": {
