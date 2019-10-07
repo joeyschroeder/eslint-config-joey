@@ -1,3 +1,9 @@
+#### 0.1.2 (2019-10-07)
+
+##### Documentation Changes
+
+*  Update README.md ([637ce9b2](https://github.com/joeyschroeder/joey-eslint-config/commit/637ce9b29baecdb5346dca82b5b215c96ce60cfa))
+
 #### 0.1.1 (2019-10-07)
 
 ##### Breaking Changes
