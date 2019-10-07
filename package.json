@@ -23,6 +23,9 @@
     "type": "git",
     "url": "https://github.com/joeyschroeder/joey-eslint-config.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "airbnb",
     "babel-eslint",
