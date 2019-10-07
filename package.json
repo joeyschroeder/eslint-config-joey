@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-joey",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "An opinionated, extensible ESLint config based on Joey's preferences.",
   "main": "index.js",
   "scripts": {
