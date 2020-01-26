@@ -1,3 +1,9 @@
+#### 0.1.6 (2020-01-26)
+
+##### Chores
+
+*  Update package dependencies ([31bf5c24](https://github.com/joeyschroeder/eslint-config-joey/commit/31bf5c24ddf3835aab4b45ecdcb5efe2761e151a))
+
 #### 0.1.5 (2019-10-14)
 
 ##### Chores
