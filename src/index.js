@@ -2,16 +2,16 @@
 module.exports = {
   env: {
     browser: true,
-    'jest/globals': true
+    'jest/globals': true,
   },
   extends: [
     'airbnb',
     'eslint:recommended',
     'plugin:prettier/recommended',
-    'plugin:react/recommended'
+    'plugin:react/recommended',
   ],
   globals: {
-    MyGlobal: true
+    MyGlobal: true,
   },
   parser: 'babel-eslint',
   plugins: ['jest', 'react'],
@@ -30,6 +30,6 @@ module.exports = {
     'react/jsx-one-expression-per-line': [0],
     'react/no-unused-prop-types': 1,
     'react/static-property-placement': [2, 'static public field'],
-    semi: ['error', 'always']
-  }
+    semi: ['error', 'always'],
+  },
 };
